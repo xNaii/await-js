@@ -1,7 +1,7 @@
 {
   "name": "await-js",
   "version": "1.0.0",
-  "description": "Await for anything in js",
+  "description": "Await for anything in JavaScript",
   "main": "index.ts",
   "repository": "https://github.com/xNaii/await-js",
   "author": "xNaii",
