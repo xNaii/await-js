@@ -1,0 +1,13 @@
+{
+  "name": "await-js",
+  "version": "1.0.0",
+  "description": "Await for anything in js",
+  "main": "index.ts",
+  "repository": "https://github.com/xNaii/await-js",
+  "author": "xNaii",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "tsc src/AwaitJS.ts --outDir build"
+  }
+}
